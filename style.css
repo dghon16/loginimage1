@@ -35,6 +35,11 @@ body {
 
 .header p {
   font-size: x-small;
+  text-align: center;
+}
+
+.header h3 {
+  text-align: center;
 }
 
 .login-area {
